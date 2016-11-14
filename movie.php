@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>大溪教會網站測試</title>
+  <title>大溪長老教會</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/3.3.7/cerulean/bootstrap.min.css" media="screen" title="no title">
   <link rel="stylesheet" href="css/font-awesome-4.6.3/css/font-awesome.min.css">
   <link rel="stylesheet" href="js/bxslider/jquery.bxslider.css">
@@ -60,7 +60,6 @@ $(function(){
         <li><a href="history.php">歷史沿革</a></li>
         <li><a href="Pastor Team.php">牧師團隊</a></li>
         <li><a href="time.php">聚會時間</a></li>
-        <li id="NewsBtn"><a href="javascript:void(0)" class="DB"><span>最新消息</span></a></li>
         <li id="ProductBtn"><a href="movie.php" class="DB"><span>影音專區</span></a></li>
         <li><a href="contact.php" class="DB"><span>聯絡我們</span></a></li>
       </ul>
@@ -97,7 +96,10 @@ $(function(){
       <div class="Wrap">
         <p></p>
         <div id="Movie">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/8Y_AUsUmCEM" frameborder="0" allowfullscreen></iframe>
+
+        </div>
+        <div id="Movie">
+        
         </div>
         <p class="NewsDate"></p>
         <p class="NewsTitle"></p>

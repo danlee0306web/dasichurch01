@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>大溪教會網站測試</title>
+  <title>大溪長老教會</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/3.3.7/cerulean/bootstrap.min.css" media="screen" title="no title">
   <link rel="stylesheet" href="css/font-awesome-4.6.3/css/font-awesome.min.css">
   <link rel="stylesheet" href="js/bxslider/jquery.bxslider.css">
@@ -90,11 +90,11 @@ $(function(){
      <div class="Content">
        <div class="Wrap">
          <img src="uploads/news/news-01.jpg" alt="" class="NewsImg">
-         <p class="NewsDate">2016/09/18</p>
-         <p class="NewsTitle">一.本日為主日為十一奉獻主日，鼓勵兄姊將收入的十分之一奉獻給主，積極回應祂所賜的恩典。</p>
-         <p class="NewsTitle">二.本週二(13日)10:30新竹終會傳道部傳道師訓練並召開部會，胡牧師將出席並分享。</p>
-         <p class="NewsTitle">三.本會預定開設『洗禮預備班』，歡迎在本會固定參加主日禮拜一年以上，並預備接受成人洗禮者或堅信禮的兄姊報名參加，下主日截止報名。詳情請洽胡牧師。</p>
-         <p class="NewsTitle">四.本會訂於11月6日(主日)舉行野外禮拜，地點:雙連教會三芝安養中心及三芝遊客中心(源興居)，報名費每人300元(含車費、保險費及午餐)，不足金額由教會補助，歡迎兄姊踴躍報名參加，請至招待桌登記及向陳榮宗長老報名，為統計人數，9月18截止報名。</p>
+         <p class="NewsDate">2016/11/13</p>
+         <p class="NewsTitle">一.本主日是十一奉獻主日，請兄姐用實際的行動來回應上帝的恩典。</p>
+         <p class="NewsTitle">二.下主日(20日)是感恩節，請兄姐用實際的行動來回應上帝的恩典。</p>
+         <p class="NewsTitle">三.下主日(20日)禮拜後，將舉行全教會大掃除，請兄姐預備心，踴躍參與清掃事工的服事。</p>
+         <p class="NewsTitle">四.長執會決議:本年度聖誕節慶祝活動如下:12月24(周六)聖誕福音茶會，18:00~19:00聖誕愛宴(每戶初一道菜)，19:00~20:30聖誕福音晚會，12月25日(主日) 09:00~10:30讚美禮拜。</p>
        </div>
      </div>
      <!-- 新聞區塊 end-->
